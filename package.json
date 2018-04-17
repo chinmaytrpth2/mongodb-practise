@@ -21,6 +21,7 @@
     "lodash": "^4.17.5",
     "mongodb": "^3.0.5",
     "mongoose": "^5.0.14",
+    "password-hash": "^1.2.2",
     "validator": "^9.4.1"
   }
 }
